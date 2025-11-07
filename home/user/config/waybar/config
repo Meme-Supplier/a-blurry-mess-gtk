@@ -26,7 +26,7 @@
         "format-off": "",
         "format-disabled": "󰂲",
         "format-connected": "󰂯",
-        "on-click": "kcmshell6 bluetooth",
+        "on-click": "blueman-manager",
     },
 
     "wireplumber": {
@@ -35,7 +35,7 @@
         "scroll-step": 5,
         /*"on-click": "kitty wiremix",*/
         /*"on-click-right": "kitty bluetui",*/
-        "on-click": "kcmshell6 pulseaudio",
+        "on-click": "pavucontrol",
     },
 
     "network": {
@@ -45,7 +45,7 @@
         "format-disconnected": "\udb83\udc9c",
         "format-icons": ["\udb82\udd2f", "\udb82\udd1f", "\udb82\udd22", "\udb82\udd25", "\udb82\udd28"],
         /*"on-click": "kitty impala",*/
-        "on-click": "kcmshell6 kcm_networkmanagement",
+        "on-click": "nmgui",
     },
 
     "tray": {
