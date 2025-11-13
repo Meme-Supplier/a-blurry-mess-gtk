@@ -20,7 +20,7 @@ My Hyprland dot/config files
 - **Terminal**: [kitty](https://github.com/kovidgoyal/kitty)
 - **File Manager**: [Dolphin](https://github.com/linuxmint/nemo)
 - **Application launcher**: [wofi](https://github.com/SimplyCEO/wofi)
-- **System Monitor:** [plasma-systemmonitor](https://github.com/aristocratos/btop)
+- **System Monitor:** [btop](https://github.com/aristocratos/btop)
 - **Screen Locker**: [hyprlock](https://github.com/hyprwm/hyprlock)
 - **Screenshot manager**: [hyprshot](https://github.com/Gustash/Hyprshot)
 - **Wallpaper manager**: [hyprpaper](https://github.com/hyprwm/hyprpaper)
