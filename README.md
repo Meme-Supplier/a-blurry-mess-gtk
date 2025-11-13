@@ -8,7 +8,6 @@ My Hyprland dot/config files
 # Themeing
 ## Universal
 - **QT/GTK**: [Orchis Dark](https://github.com/vinceliuice/Orchis-theme) w/ [Orchis Dark kvantum](https://store.kde.org/p/1458909/)
-
 - **Icons**: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 ## [VSCodium](https://github.com/VSCodium/vscodium)
 - **Theme**: [Papirus](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
@@ -18,7 +17,7 @@ My Hyprland dot/config files
 - Accent color `#2251C0` set through about:config -> `zen.theme.accent-color`
 # Apps
 - **Terminal**: [kitty](https://github.com/kovidgoyal/kitty)
-- **File Manager**: [Dolphin](https://github.com/linuxmint/nemo)
+- **File Manager**: [Nemo](https://github.com/linuxmint/nemo)
 - **Application launcher**: [wofi](https://github.com/SimplyCEO/wofi)
 - **System Monitor:** [btop](https://github.com/aristocratos/btop)
 - **Screen Locker**: [hyprlock](https://github.com/hyprwm/hyprlock)
