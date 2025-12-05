@@ -1,9 +1,9 @@
-# a-blurry-mess
-My Hyprland dot/config files
+# a-blurry-mess-gtk
+My Hyprland dot/config files (GTK version)
 
-[Original theme](https://github.com/Meme-Supplier/a-blurry-mess)
+[Original theme](https://github.com/owen-debiasio/a-blurry-mess)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da7111fb-5b44-417a-ab52-63342b125a20" />
+<img width="1920" height="1080" alt="2025-12-04-201932_hyprshot" src="https://github.com/user-attachments/assets/bdb2c22a-3a8d-4be8-b50a-dba3ad5d2f71" />
 
 # Basic configuration
 ---
@@ -26,3 +26,4 @@ My Hyprland dot/config files
 - **Screenshot manager**: [hyprshot](https://github.com/Gustash/Hyprshot)
 - **Wallpaper manager**: [hyprpaper](https://github.com/hyprwm/hyprpaper)
 - **Bar/Shelf**: [waybar](https://github.com/Alexays/Waybar)
+- **Notification Manager**: [Sway Notification Center](https://github.com/ErikReider/SwayNotificationCenter)
