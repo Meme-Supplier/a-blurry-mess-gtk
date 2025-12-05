@@ -1,7 +1,7 @@
 # a-blurry-mess-gtk
-My Hyprland dot/config files (GTK version)
+My Hyprland dot/config files
 
-[Original theme](https://github.com/owen-debiasio/a-blurry-mess)
+[Original theme](https://github.com/owen-debiasio/a-blurry-mess) **(No longer maintained)**
 
 <img width="1920" height="1080" alt="2025-12-04-201932_hyprshot" src="https://github.com/user-attachments/assets/bdb2c22a-3a8d-4be8-b50a-dba3ad5d2f71" />
 
