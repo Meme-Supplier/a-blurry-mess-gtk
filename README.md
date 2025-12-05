@@ -12,7 +12,7 @@ My Hyprland dot/config files
 - **QT/GTK**: [Orchis Dark (Pure black tweak)](https://github.com/vinceliuice/Orchis-theme) w/ [Orchis Dark kvantum](https://store.kde.org/p/1458909/)
 - **Icons**: [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 ## [VSCodium](https://github.com/VSCodium/vscodium)
-- **Theme**: [Papirus](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- **Theme**: [Github Dark](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - **Icons**: [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme)
 ## [Zed](https://github.com/zed-industries/zed)
 - **Theme**: [Bloled](https://github.com/owen-debiasio/bloled)
